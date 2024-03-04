@@ -98,16 +98,19 @@ margin: 0 100px;
                 <h3>Interfaith Iftar</h3>
                 <p>Date: March 23, 2024</p>
                 <p>Location: Masjid Zakariya (ICF)</p>
-            </div>
+            
             <div class="event">
                 <h3>Snow Camping</h3>
                 <p>Date: April,2024</p>
                 <p>Location: TBD</p>
                 <div class="event">
+                
+               
+                
                 <h4> Backpacking</h4>
                 <p>Date May,2024</p>
                 <p>Location: TBD</p>
-                </div>
+                
                      
                 
                     
