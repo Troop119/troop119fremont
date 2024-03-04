@@ -20,9 +20,9 @@
         }
         nav {
             background-color: #046AF4;
-            padding: 25px 10px;
+            padding: 25px 1px;
             text-align: center;
-        
+            
 }
 nav a {
 color: #fff;
