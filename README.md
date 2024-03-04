@@ -123,7 +123,7 @@ margin: 0 100px;
     <div class="container" id="photos">
         <div class="section">
             <h2>Photos</h2>
-            <img src="file:///C:/Users/amink/Downloads/PHOTO-2023-11-19-19-11-32-image.png">
+            <img src="(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy6whK2ixrmgvdGFCuYJy-WmxO7Zn3RRQh4uyJxdfKcA&s)">
             <img src="file:///C:/Users/amink/Downloads/PHOTO-2024-01-13-17-24-39.png">
             </img>
             <p>Check out some of our recent activities!</p>
