@@ -95,14 +95,25 @@ margin: 0 100px;
         <div class="section">
             <h2>Upcoming Events</h2>
             <div class="event">
-                <h3>Camping Trip</h3>
-                <p>Date: March 10-12, 2024</p>
-                <p>Location: Camp Pine Ridge</p>
+                <h3>Interfaith Iftar</h3>
+                <p>Date: March 23, 2024</p>
+                <p>Location: Masjid Zakariya (ICF)</p>
             </div>
             <div class="event">
-                <h3>Hiking Adventure</h3>
-                <p>Date: April 5, 2024</p>
-                <p>Location: Green Mountain Trail</p>
+                <h3>Snow Camping</h3>
+                <p>Date: April,2024</p>
+                <p>Location: TBD</p>
+                <div class="event">
+                <h4> Backpacking</h4>
+                <p>Date May,2024</p>
+                <p>Location: TBD</p>
+                </div>
+                     
+                
+                    
+                </p>
+            
+            
             </div>
         </div>
     </div>
