@@ -1,5 +1,3 @@
-# troop119fremont
-Troop119 
 <!DOCTYPE html>
 <html lang="en">
 <head>
