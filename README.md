@@ -123,7 +123,7 @@ margin: 0 100px;
     <div class="container" id="photos">
         <div class="section">
             <h2>Photos</h2>
-            <img src="path_to_your_image.jpg" alt="Scout troop photo">
+            <img src="file:///C:/Users/amink/Downloads/PHOTO-2023-11-19-19-11-32.jpg" alt="Scout troop photo">
             <p>Check out some of our recent activities!</p>
         </div>
     </div>
