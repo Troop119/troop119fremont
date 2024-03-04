@@ -123,7 +123,7 @@ margin: 0 100px;
     <div class="container" id="photos">
         <div class="section">
             <h2>Photos</h2>
-            <img src="file:///C:/Users/amink/Downloads/PHOTO-2023-11-19-19-11-32.jpg">
+            <img src="file:///C:/Users/amink/Downloads/PHOTO-2023-11-19-19-11-32.png">
             <img src="file:///C:/Users/amink/Downloads/PHOTO-2024-01-13-17-24-39.jpg">
             </img>
             <p>Check out some of our recent activities!</p>
