@@ -105,6 +105,7 @@ margin: 0 100px;
                 <p>Location: TBD</p>
                 <div class="event">
                 
+            <div class="event">
                 <h4> Backpacking</h4>
                 <p>Date May,2024</p>
                 <p>Location: TBD</p>
